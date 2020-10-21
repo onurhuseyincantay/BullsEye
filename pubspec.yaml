@@ -1,0 +1,12 @@
+name: BullsEye
+description: Bulls Right In The Eye
+
+dependencies:
+  flutter:
+    sdk: flutter
+devdependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
